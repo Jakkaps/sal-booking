@@ -1,0 +1,15 @@
+{
+  "name": "sal-booking",
+  "version": "1.0.0",
+  "description": "Automatisk booking av sal på NTNU",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sal-booking"
+  },
+  "author": "",
+  "license": "ISC"
+}
