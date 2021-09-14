@@ -10,6 +10,11 @@
     "type": "git",
     "url": "sal-booking"
   },
+  "type": "module",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^10.2.0"
+  }
 }
